@@ -1,4 +1,4 @@
-// Función que verifica si una persona tiene la edad suficiente
+
 function validarEdad(edad) {
     return new Promise((resolve, reject) => {
         if (edad >= 18) {

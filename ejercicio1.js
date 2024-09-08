@@ -1,4 +1,4 @@
-// Función que retorna una promesa para verificar si un número es 5
+
 function verificarNumero(numero) {
     return new Promise((resolve, reject) => {
         if (numero === 5) {
